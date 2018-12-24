@@ -1,6 +1,6 @@
 {
-    "name": "zoom_image",
-    "version": "1.0.2",
+    "name": "zoom",
+    "version": "1.0.3",
     "description": "放大预览图片",
     "main": "index.js",
     "scripts": {

@@ -1,4 +1,4 @@
-import SmallButton from './components/SmallButton.js';
+import Zoom from './components/Zoom.js';
 module.export = {
-    SmallButton
+    Zoom
 }
