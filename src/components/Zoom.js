@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class SmallButton extends React.Component {
+export default class Zoom extends React.Component {
 
     render() {
         return (

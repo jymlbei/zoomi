@@ -1,2 +1,2 @@
-import SmallButton from './components/SmallButton.js';
-export default SmallButton;
+import Zoom from './components/Zoom.js';
+export default Zoom;
