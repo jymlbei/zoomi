@@ -1,0 +1,29 @@
+{
+    "name": "zoom_image",
+    "version": "1.0.2",
+    "description": "放大预览图片",
+    "main": "index.js",
+    "scripts": {
+        "build": "babel src --out-dir lib"
+    },
+    "devDependencies": {
+        "babel-cli": "^6.0.0",
+        "babel-core": "^6.14.0",
+        "babel-loader": "^6.2.5",
+        "babel-plugin-istanbul": "^2.0.1",
+        "babel-preset-es2015": "^6.14.0",
+        "babel-preset-react": "^6.24.1",
+        "react": "^15.6.1",
+        "react-dom": "^15.6.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jymlbei/ZoomImage.git"
+    },
+    "author": "jym",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jymlbei/ZoomImage/issues"
+    },
+    "homepage": "https://github.com/jymlbei/ZoomImage#readme"
+}
