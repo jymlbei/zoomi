@@ -1,8 +1,8 @@
 {
     "name": "zoomiii",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "放大预览图片",
-    "main": "index.js",
+    "main": "lib/index.js",
     "scripts": {
         "build": "babel src --out-dir lib"
     },
@@ -18,12 +18,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jymlbei/ZoomImage.git"
+        "url": "git+https://github.com/jymlbei/zoomi.git"
     },
-    "author": "jym",
+    "author": "jymbbw",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/jymlbei/ZoomImage/issues"
+        "url": "https://github.com/jymlbei/zoomi/issues"
     },
-    "homepage": "https://github.com/jymlbei/ZoomImage#readme"
+    "homepage": "https://github.com/jymlbei/zoomi#readme"
 }

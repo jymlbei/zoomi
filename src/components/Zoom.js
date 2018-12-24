@@ -1,9 +1,12 @@
 import React from 'react';
 
-export default class Zoom extends React.Component {
+export default class SmallButton extends React.Component {
+
     render() {
-        return (<div>
-            <button>Zoom</button>
-        </div>);
+        return (
+            <div>
+                <button>知乎</button>
+            </div>
+        );
     }
 }
