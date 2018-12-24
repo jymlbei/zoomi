@@ -1,6 +1,6 @@
 {
     "name": "zoomiii",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "放大预览图片",
     "main": "index.js",
     "scripts": {
