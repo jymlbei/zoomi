@@ -1,12 +1,13 @@
 {
     "name": "zoomiii",
-    "version": "1.0.10",
+    "version": "1.1.0",
     "description": "放大预览图片",
     "main": "lib/index.js",
     "scripts": {
         "build": "babel src --out-dir lib"
     },
     "devDependencies": {
+        "antd": "^4.5.3",
         "babel-cli": "^6.0.0",
         "babel-core": "^6.14.0",
         "babel-loader": "^6.2.5",
