@@ -1,6 +1,6 @@
 {
     "name": "zoomiii",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "放大预览图片",
     "main": "lib/index.js",
     "scripts": {
@@ -15,7 +15,9 @@
         "babel-preset-es2015": "^6.14.0",
         "babel-preset-react": "^6.24.1",
         "react": "^15.6.1",
-        "react-dom": "^15.6.1"
+        "react-dom": "^15.6.1",
+        "react-id-swiper": "^4.0.0",
+        "babel-preset-stage-0": "^6.24.1"
     },
     "repository": {
         "type": "git",
